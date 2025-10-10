@@ -1,0 +1,662 @@
+2025-08-28 09:26:34,334 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:26:34,335 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2717658C2
+2025-08-28 09:26:34,555 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:26:34,557 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2402929C2
+2025-08-28 09:26:34,563 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:26:34,564 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2737943C1
+2025-08-28 09:26:34,570 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:26:34,571 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent EA0000015351B1
+2025-08-28 09:26:34,577 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:26:34,578 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2560426C2
+2025-08-28 09:26:34,614 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:26:34,616 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent EA0000036291B1
+2025-08-28 09:26:34,618 - app.http.routes.analog - ERROR - [analog.py:27 - search_patent_analogues()] - No analogues found for patent
+2025-08-28 09:36:33,289 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:36:33,290 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU225476U1
+2025-08-28 09:36:33,304 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:36:33,306 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2782412C2
+2025-08-28 09:36:33,312 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:36:33,313 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU225457U1
+2025-08-28 09:36:33,320 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:36:33,321 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2619995C2
+2025-08-28 09:36:33,323 - app.http.routes.analog - ERROR - [analog.py:27 - search_patent_analogues()] - No analogues found for patent
+2025-08-28 09:54:24,430 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:54:24,432 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2818384C1
+2025-08-28 09:54:24,445 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:54:24,446 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU101063U1
+2025-08-28 09:54:24,452 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:54:24,454 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2739876C1
+2025-08-28 09:54:24,460 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:54:24,461 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU43224U1
+2025-08-28 09:54:24,467 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 09:54:24,468 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU187753U1
+2025-08-28 09:54:24,470 - app.http.routes.analog - ERROR - [analog.py:27 - search_patent_analogues()] - No analogues found for patent
+2025-08-28 10:00:14,047 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:00:14,048 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU99514U1
+2025-08-28 10:00:14,061 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:00:14,062 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2674451C1
+2025-08-28 10:00:14,076 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:00:14,077 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2818384C1
+2025-08-28 10:00:14,084 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:00:14,085 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent WO2022010373A1
+2025-08-28 10:00:14,091 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:00:14,092 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2739876C1
+2025-08-28 10:00:14,094 - app.http.routes.analog - ERROR - [analog.py:27 - search_patent_analogues()] - No analogues found for patent
+2025-08-28 10:04:52,465 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:04:52,466 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU175406U1
+2025-08-28 10:04:52,480 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:04:52,481 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU71501U1
+2025-08-28 10:04:52,488 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:04:52,489 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2156546C2
+2025-08-28 10:04:52,496 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:04:52,498 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2842002C1
+2025-08-28 10:04:52,504 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:04:52,505 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU233439U1
+2025-08-28 10:04:52,512 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:04:52,513 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2667360C1
+2025-08-28 10:04:52,515 - app.http.routes.analog - ERROR - [analog.py:27 - search_patent_analogues()] - No analogues found for patent
+2025-08-28 10:08:10,049 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:08:10,050 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2249261C2
+2025-08-28 10:08:10,064 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:08:10,065 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU71501U1
+2025-08-28 10:08:10,071 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:08:10,072 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2833170C1
+2025-08-28 10:08:10,078 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 500
+2025-08-28 10:08:10,079 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2256946C2
+2025-08-28 10:08:10,081 - app.http.routes.analog - ERROR - [analog.py:27 - search_patent_analogues()] - No analogues found for patent
+2025-08-28 10:11:24,725 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:11:24,727 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2156546C2
+2025-08-28 10:11:24,736 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:11:24,738 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2833170C1
+2025-08-28 10:11:24,829 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:11:24,831 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2667360C1
+2025-08-28 10:11:25,336 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:11:25,338 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2249261C2
+2025-08-28 10:11:25,339 - app.http.routes.analog - ERROR - [analog.py:27 - search_patent_analogues()] - No analogues found for patent
+2025-08-28 10:14:16,154 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:14:16,155 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU71501U1
+2025-08-28 10:14:16,156 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:14:16,157 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2833170C1
+2025-08-28 10:14:16,204 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:14:16,205 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2256946C2
+2025-08-28 10:14:16,580 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:14:16,581 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU175406U1
+2025-08-28 10:17:59,304 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:17:59,305 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU195243U1
+2025-08-28 10:17:59,344 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:17:59,345 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:41 - process_one()] - LLM request failed for patent RU2268840C2
+2025-08-28 10:37:38,788 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:37:38,789 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU2654879C1
+2025-08-28 10:37:38,814 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:37:38,815 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU195243U1
+2025-08-28 10:37:38,858 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:37:38,859 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU2239027C1
+2025-08-28 10:37:39,222 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:37:39,223 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU2268840C2
+2025-08-28 10:37:39,955 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:37:57,505 - app.services.analog.table_generator - ERROR - [table_generator.py:233 - generate_statistics_xlsx()] - division by zero
+2025-08-28 10:37:57,506 - app.http.routes.analog - ERROR - [analog.py:131 - get_statistics_analog_xlsx()] - No statistics found for patent
+2025-08-28 10:38:05,826 - app.services.analog.table_generator - ERROR - [table_generator.py:233 - generate_statistics_xlsx()] - division by zero
+2025-08-28 10:38:05,826 - app.http.routes.analog - ERROR - [analog.py:131 - get_statistics_analog_xlsx()] - No statistics found for patent
+2025-08-28 10:38:46,990 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:38:46,991 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU2239027C1
+2025-08-28 10:38:47,023 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:38:47,024 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU2268840C2
+2025-08-28 10:38:47,083 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:38:47,084 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU195243U1
+2025-08-28 10:38:47,119 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 10:38:47,120 - app.services.analog.attribute_tool - ERROR - [attribute_tool.py:184 - process_one()] - LLM request failed for analog: RU2654879C1
+2025-08-28 10:38:47,883 - app.clients.client_llm_client - ERROR - [client_llm_client.py:47 - ask()] - Request error 502
+2025-08-28 11:24:13,744 - app.http.routes.analog - ERROR - [analog.py:95 - get_analogues_xlsx()] - No analogues found for patent
+2025-08-28 11:28:07,295 - app.http.routes.analog - ERROR - [analog.py:95 - get_analogues_xlsx()] - No analogues found for patent
+2025-08-28 11:32:08,001 - app.http.routes.analog - ERROR - [analog.py:95 - get_analogues_xlsx()] - No analogues found for patent
+2025-08-28 11:34:57,629 - app.http.routes.analog - ERROR - [analog.py:95 - get_analogues_xlsx()] - No analogues found for patent
+2025-08-29 06:34:57,559 - app.services.analog.analog - ERROR - [analog.py:79 - search_patent_analogues()] - Error in search_patent_analogues: name 'websocket_manager' is not defined
+2025-08-29 06:38:52,167 - app.services.analog.analog - ERROR - [analog.py:78 - search_patent_analogues()] - Error in search_patent_analogues: 'coroutine' object has no attribute 'analog_link_generate'
+2025-08-29 06:40:30,264 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:148 - analog_link_generate()] - Error in analog_generate: name 'websockets' is not defined
+2025-08-29 06:48:22,790 - app.clients.parser_client - ERROR - [parser_client.py:73 - generate_analog_link_ws()] - WebSocket error: server rejected WebSocket connection: HTTP 404
+2025-08-29 06:48:55,565 - app.clients.parser_client - ERROR - [parser_client.py:73 - generate_analog_link_ws()] - WebSocket error: server rejected WebSocket connection: HTTP 404
+2025-08-29 06:49:14,361 - app.clients.parser_client - ERROR - [parser_client.py:73 - generate_analog_link_ws()] - WebSocket error: server rejected WebSocket connection: HTTP 404
+2025-08-29 06:54:07,697 - app.clients.parser_client - ERROR - [parser_client.py:73 - generate_analog_link_ws()] - WebSocket error: [Errno 10061] Connect call failed ('127.0.0.1', 8009)
+2025-08-29 06:54:17,317 - app.clients.parser_client - ERROR - [parser_client.py:73 - generate_analog_link_ws()] - WebSocket error: server rejected WebSocket connection: HTTP 404
+2025-08-29 06:55:00,989 - app.clients.parser_client - ERROR - [parser_client.py:73 - generate_analog_link_ws()] - WebSocket error: server rejected WebSocket connection: HTTP 403
+2025-08-29 06:59:13,465 - app.clients.parser_client - ERROR - [parser_client.py:73 - generate_analog_link_ws()] - WebSocket error: name 'json' is not defined
+2025-08-29 07:01:54,515 - app.clients.parser_client - ERROR - [parser_client.py:74 - generate_analog_link_ws()] - WebSocket error: name 'asyncio' is not defined
+2025-08-29 07:03:47,147 - app.clients.parser_client - ERROR - [parser_client.py:75 - generate_analog_link_ws()] - WebSocket error: Object of type UUID is not JSON serializable
+2025-08-29 07:07:43,741 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:17:50,190 - app.services.analog.analog - ERROR - [analog.py:78 - search_patent_analogues()] - Error in search_patent_analogues: name 'get_connection_manager' is not defined
+2025-08-29 07:21:35,496 - app.services.analog.analog - ERROR - [analog.py:78 - search_patent_analogues()] - Error in search_patent_analogues: name 'get_connection_manager' is not defined
+2025-08-29 07:24:26,006 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:25:29,548 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:26:03,932 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:30:03,132 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:31:49,557 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:42:14,902 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:43:45,905 - app.clients.parser_client - ERROR - [parser_client.py:66 - generate_analog_link_ws()] - Parser error: Unknown message type
+2025-08-29 07:52:31,255 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 07:53:15,263 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 07:54:16,255 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 07:55:25,564 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:14:31,060 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:17:15,579 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:18:49,759 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:25:09,644 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:34:26,615 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:43:06,111 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:52:24,869 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 08:57:17,225 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 09:01:03,230 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 09:06:48,315 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 09:24:30,535 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:160 - analog_link_generate()] - Error in analog_generate: HTTPConnectionPool(host='127.0.0.1', port=8009): Read timed out. (read timeout=180)
+2025-08-29 09:44:52,907 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Internal server error: 'RospatentLinkParser' object has no attribute '_senparser_invention_analog_datad_progress'
+2025-08-29 09:52:12,435 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:160 - analog_link_generate()] - Error in analog_generate: HTTPConnectionPool(host='127.0.0.1', port=8009): Read timed out. (read timeout=180)
+2025-08-29 10:05:49,913 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 10:08:45,225 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 10:19:50,474 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 10:41:59,483 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 10:54:37,408 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 10:57:15,145 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 10:57:26,034 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 10:57:31,527 - app.http.routes.analog - ERROR - [analog.py:113 - get_analogues_xlsx()] - No analogues found for patent
+2025-08-29 10:58:15,854 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 11:01:37,799 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 11:01:46,690 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 11:02:04,014 - app.http.routes.analog - ERROR - [analog.py:113 - get_analogues_xlsx()] - No analogues found for patent
+2025-08-29 11:04:27,402 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:159 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 12:29:33,696 - app.services.analog.analog - ERROR - [analog.py:78 - search_patent_analogues()] - Error in search_patent_analogues: PatentRawDataGenerator.analog_link_generate() takes 1 positional argument but 2 were given
+2025-08-29 12:31:30,629 - app.services.analog.analog - ERROR - [analog.py:78 - search_patent_analogues()] - Error in search_patent_analogues: PatentRawDataGenerator.analog_link_generate() takes 1 positional argument but 2 were given
+2025-08-29 12:38:35,264 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 12:47:56,997 - app.clients.parser_client - ERROR - [parser_client.py:70 - generate_analog_link_ws()] - WebSocket error: server rejected WebSocket connection: HTTP 500
+2025-08-29 12:49:15,496 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:141 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 12:59:54,336 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:141 - analog_link_generate()] - Error in analog_generate: name 'analog' is not defined
+2025-08-29 13:15:43,255 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 13:16:59,268 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 13:42:38,218 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 13:52:52,256 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 13:54:23,872 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 14:19:10,975 - app.services.analog.analog - ERROR - [analog.py:187 - create_analogs_attribute()] - Error in create_analogs_attribute: AnalogAttributeToolService.__init__() missing 1 required positional argument: 'chat_id'
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\analog.py", line 147, in create_analogs_attribute
+    attribute_tool = AnalogAttributeToolService(user_patent_id_pair)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: AnalogAttributeToolService.__init__() missing 1 required positional argument: 'chat_id'
+2025-08-29 14:21:50,887 - app.services.analog.analog - ERROR - [analog.py:187 - create_analogs_attribute()] - Error in create_analogs_attribute: name 'get_connection_manager' is not defined
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\analog.py", line 147, in create_analogs_attribute
+    attribute_tool = AnalogAttributeToolService(user_patent_id_pair)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\attribute_tool.py", line 18, in __init__
+    self.websocket_manager = websocket_manager or get_connection_manager()
+                                                  ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'get_connection_manager' is not defined
+2025-08-29 15:07:22,063 - app.services.token_introspection - ERROR - [token_introspection.py:41 - has_user_jwt()] - Invalid or expired token
+2025-08-29 15:07:37,050 - app.services.token_introspection - ERROR - [token_introspection.py:41 - has_user_jwt()] - Invalid or expired token
+2025-08-29 15:17:57,272 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 15:23:31,216 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 15:37:22,283 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 15:37:57,255 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 15:38:02,578 - app.http.routes.analog - ERROR - [analog.py:87 - get_patent_analog_attr()] - No analogues found for patent
+2025-08-29 15:38:11,530 - app.http.routes.analog - ERROR - [analog.py:155 - get_analogues_xlsx()] - No analogues found for patent
+2025-08-29 15:38:13,905 - app.http.routes.analog - ERROR - [analog.py:87 - get_patent_analog_attr()] - No analogues found for patent
+2025-08-29 15:41:27,528 - app.http.routes.analog - ERROR - [analog.py:87 - get_patent_analog_attr()] - No analogues found for patent
+2025-08-29 15:42:03,256 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 15:42:34,831 - app.http.routes.analog - ERROR - [analog.py:87 - get_patent_analog_attr()] - No analogues found for patent
+2025-08-29 15:42:54,160 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 15:44:25,648 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 15:50:29,269 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:07:28,259 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:10:47,262 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:10:53,472 - app.http.routes.analog - ERROR - [analog.py:87 - get_patent_analog_attr()] - No analogues found for patent
+2025-08-29 17:11:21,300 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:26:54,144 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:42:52,263 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:45:55,966 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:46:09,241 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:48:39,360 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:49:24,245 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 17:52:08,257 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Internal server error: 'RospatentLinkParser' object has no attribute '_send_error'
+2025-08-29 18:01:41,269 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 18:07:59,255 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 18:12:01,212 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 18:16:13,202 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 18:19:37,118 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-08-29 19:55:40,153 - app.clients.parser_client - ERROR - [parser_client.py:60 - generate_analog_link_ws()] - Parser error: Не удалось получить данные патентов
+2025-09-04 12:55:56,876 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 12:55:56,902 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 12:55:56,904 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 12:55:56,911 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 12:55:56,913 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 12:55:57,923 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 12:55:57,924 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 12:55:59,942 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 12:55:59,943 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 12:56:03,964 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 12:56:03,965 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 12:56:11,968 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 12:56:11,969 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 12:56:11,970 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 12:56:11,971 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:08:08,430 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:08:08,435 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 13:08:08,438 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:08:08,443 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:08:08,446 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:08:09,457 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:08:09,458 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:08:09,460 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:08:11,459 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:08:11,460 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:08:11,462 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:08:15,483 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:08:15,484 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:08:15,486 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:08:23,517 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:08:23,518 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:08:23,519 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 13:08:23,520 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:10:58,165 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:10:58,170 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 13:10:58,172 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:10:58,176 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:10:58,179 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:10:59,177 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:10:59,178 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:10:59,181 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:11:01,191 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:11:01,192 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:11:01,195 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:11:05,215 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:11:05,216 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:11:05,218 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:11:13,240 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:11:13,241 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:11:13,242 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 13:11:13,243 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:12,292 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:12,297 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 13:12:12,299 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:12,304 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:12,306 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:13,322 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:13,323 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:13,326 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:15,345 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:15,346 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:15,348 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:19,354 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:19,355 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:19,358 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:27,375 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:27,376 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:27,377 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 13:12:27,378 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:33,302 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:33,307 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 13:12:33,308 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:33,314 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:33,316 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:34,338 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:34,339 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:34,342 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:36,321 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:36,322 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:36,325 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:38,637 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:38,641 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 13:12:38,643 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:38,648 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:38,651 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:39,652 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:39,653 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:39,655 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:40,334 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:40,335 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:40,338 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:41,648 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:41,649 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:41,651 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:45,670 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:45,671 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:45,673 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:12:48,343 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:48,344 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:48,345 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 13:12:48,346 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:53,690 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:12:53,691 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:12:53,692 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 13:12:53,693 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:13:17,660 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:13:17,665 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 13:13:17,667 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:13:17,672 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:13:17,674 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:13:18,693 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:13:18,694 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:13:18,696 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:13:20,718 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:13:20,719 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:13:20,724 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:13:24,727 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:13:24,728 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:13:24,730 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:13:32,743 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:13:32,744 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:13:32,745 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 13:13:32,746 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:16:34,067 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:16:34,072 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 404, {"detail":"Not Found"}
+2025-09-04 13:16:34,074 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:16:34,079 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:16:34,082 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:16:35,103 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:16:35,104 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:16:35,106 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:16:37,120 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:16:37,121 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:16:37,123 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:16:41,123 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:16:41,124 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:16:41,127 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:16:49,146 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 403, message='Invalid response status', url='ws://127.0.0.1:8009/ws/parser/1830913972'
+2025-09-04 13:16:49,147 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:16:49,148 - app.clients.ws_client - ERROR - [ws_client.py:94 - _connect_and_listen()] - ❌ Maximum retry attempts (5) exceeded for user 1830913972
+2025-09-04 13:16:49,149 - app.services.analog.raw_data_generator - ERROR - [raw_data_generator.py:140 - handle_parser_progress()] - Error in handle_parser_progress: invalid state
+2025-09-04 13:26:09,692 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:09,733 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:09,737 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:09,740 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:09,743 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:09,747 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:11,404 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:11,408 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:11,411 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:26:11,437 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:30:11,498 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:30:11,528 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:30:11,531 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:30:11,535 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:30:11,538 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:30:11,542 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:41:16,495 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:41:16,524 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:41:16,527 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:41:16,530 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:41:16,533 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:41:16,537 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:55:27,333 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:55:27,362 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:55:27,366 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:55:27,369 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:55:27,372 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-04 13:55:27,375 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:32:20,004 - app.services.analog.raw_data_generator.link_generator - ERROR - [link_generator.py:63 - generate_data()] - Error in generate_analog_links: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:33:38,905 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:33:38,912 - app.services.analog.raw_data_generator.link_generator - ERROR - [link_generator.py:63 - generate_data()] - Error in generate_analog_links: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:33:38,914 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:37:26,711 - asyncio - ERROR - [base_events.py:1821 - default_exception_handler()] - Future exception was never retrieved
+future: <Future finished exception=AttributeError("'WsMessenger' object has no attribute 'handle_parser_message'")>
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\raw_data_generator\link_generator.py", line 40, in generate_data
+    message_callback=self._ws_messenger.handle_parser_message,
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:37:26,714 - asyncio - ERROR - [base_events.py:1821 - default_exception_handler()] - Future exception was never retrieved
+future: <Future finished exception=AttributeError("'WsMessenger' object has no attribute 'handle_parser_message'")>
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\raw_data_generator\link_generator.py", line 40, in generate_data
+    message_callback=self._ws_messenger.handle_parser_message,
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:38:00,439 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:38:00,446 - app.services.analog.raw_data_generator.link_generator - ERROR - [link_generator.py:63 - generate_data()] - Error in generate_analog_links: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:38:00,448 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:38:00,544 - asyncio - ERROR - [base_events.py:1821 - default_exception_handler()] - Future exception was never retrieved
+future: <Future finished exception=AttributeError("'WsMessenger' object has no attribute 'handle_parser_message'")>
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\raw_data_generator\link_generator.py", line 40, in generate_data
+    message_callback=self._ws_messenger.handle_parser_message,
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:41:41,506 - app.services.analog.raw_data_generator.link_generator - ERROR - [link_generator.py:63 - generate_data()] - Error in generate_analog_links: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:42:40,916 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:42:40,922 - app.services.analog.raw_data_generator.link_generator - ERROR - [link_generator.py:63 - generate_data()] - Error in generate_analog_links: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:42:40,925 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:42:41,062 - asyncio - ERROR - [base_events.py:1821 - default_exception_handler()] - Future exception was never retrieved
+future: <Future finished exception=AttributeError("'WsMessenger' object has no attribute 'handle_parser_message'")>
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\raw_data_generator\link_generator.py", line 40, in generate_data
+    message_callback=self._ws_messenger.handle_parser_message,
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 00:46:50,421 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:46:50,442 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:46:50,464 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: name 'logger' is not defined
+2025-09-05 00:46:50,465 - app.services.analog.raw_data_generator.link_generator - ERROR - [link_generator.py:63 - generate_data()] - Error in generate_analog_links: name 'logger' is not defined
+2025-09-05 00:46:50,467 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:50:06,847 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:50:06,868 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:50:06,871 - core.ws_messenger - ERROR - [ws_messenger.py:62 - handle_message()] - Error in handle_parser_message: 'WsMessenger' object has no attribute '_result_future'
+2025-09-05 00:50:06,872 - app.clients.ws_client - ERROR - [ws_client.py:82 - _connect_and_listen()] - WebSocket error: 'WsMessenger' object has no attribute '_result_future'
+2025-09-05 00:50:06,873 - core.ws_messenger - ERROR - [ws_messenger.py:62 - handle_message()] - Error in handle_parser_message: 'WsMessenger' object has no attribute '_result_future'
+2025-09-05 00:50:06,874 - app.services.analog.raw_data_generator.link_generator - ERROR - [link_generator.py:63 - generate_data()] - Error in generate_analog_links: 'WsMessenger' object has no attribute '_result_future'
+2025-09-05 00:50:06,876 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:50:06,931 - asyncio - ERROR - [base_events.py:1821 - default_exception_handler()] - Future exception was never retrieved
+future: <Future finished exception=AttributeError("'WsMessenger' object has no attribute '_result_future'")>
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\core\ws_messenger.py", line 56, in handle_message
+    if self._result_future and not self._result_future.done():
+       ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute '_result_future'. Did you mean: 'result_future'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\clients\ws_client.py", line 53, in _connect_and_listen
+    callback_status = await message_callback(data)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\core\ws_messenger.py", line 63, in handle_message
+    if self._result_future and not self._result_future.done():
+       ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute '_result_future'. Did you mean: 'result_future'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\core\ws_messenger.py", line 56, in handle_message
+    if self._result_future and not self._result_future.done():
+       ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute '_result_future'. Did you mean: 'result_future'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\services\analog\raw_data_generator\link_generator.py", line 38, in generate_data
+    await ws_client.connect_with_retry(
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\clients\ws_client.py", line 120, in connect_with_retry
+    await self._connect_and_listen(ws_url, message_callback, chat_id, **kwargs)
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\app\clients\ws_client.py", line 83, in _connect_and_listen
+    await message_callback({
+  File "D:\ART\PY\bot\AI-assistant-for-patents-telegram-app\services\patent_service\core\ws_messenger.py", line 63, in handle_message
+    if self._result_future and not self._result_future.done():
+       ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'WsMessenger' object has no attribute '_result_future'. Did you mean: 'result_future'?
+2025-09-05 00:52:46,182 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:52:46,203 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 00:52:46,206 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:13:21,601 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:13:21,623 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:13:21,626 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:15:30,263 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:15:30,283 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:15:30,287 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:17:44,959 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:17:44,991 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:17:44,994 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:17:44,997 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:17:45,001 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:17:45,004 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:49:33,705 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 01:49:33,711 - app.clients.parser_client - ERROR - [parser_client.py:53 - _request_ws()] - Request error: 400, {"error":"Missing required fields"}
+2025-09-05 01:49:33,713 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:02:10,984 - app.services.analog.raw_data_generator.abstract_claims_generator - ERROR - [abstract_claims_generator.py:97 - generate_data()] - Error in _generate_analog_data: 'AbstractClaimsGenerator' object has no attribute '_send_websocket_update'
+2025-09-05 02:03:21,530 - app.services.analog.raw_data_generator.abstract_claims_generator - ERROR - [abstract_claims_generator.py:97 - generate_data()] - Error in _generate_analog_data: ParserClient.generate_analog_abstract_claims() got an unexpected keyword argument 'chat_id'
+2025-09-05 02:06:33,778 - app.services.analog.raw_data_generator.abstract_claims_generator - ERROR - [abstract_claims_generator.py:97 - generate_data()] - Error in _generate_analog_data: 'WsMessenger' object has no attribute 'handle_parser_message'
+2025-09-05 02:07:13,122 - app.services.analog.raw_data_generator.abstract_claims_generator - ERROR - [abstract_claims_generator.py:97 - generate_data()] - Error in _generate_analog_data: 'AbstractClaimsGenerator' object has no attribute '_send_websocket_update'
+2025-09-05 02:08:55,737 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,743 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,746 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,793 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,796 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,800 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,803 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,806 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,809 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,813 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,816 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,819 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,823 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:08:55,831 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:09:08,248 - app.services.analog.table_generator - ERROR - [table_generator.py:82 - _generate_analogs_abstract_claims()] - 'list' object has no attribute 'get'
+2025-09-05 02:21:03,777 - app.services.analog.table_generator - ERROR - [table_generator.py:82 - _generate_analogs_abstract_claims()] - 'list' object has no attribute 'get'
+2025-09-05 02:31:25,770 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,775 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,778 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,829 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,831 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,834 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,835 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,838 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,839 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,842 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,844 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,846 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,848 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,851 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,852 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,855 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,856 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,859 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,860 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,863 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:31:25,864 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:31:25,868 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}
+2025-09-05 02:35:15,439 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,445 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,450 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,537 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,538 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,541 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,542 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,545 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,547 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,550 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,552 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,554 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,556 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,558 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,560 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,562 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,573 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,577 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,578 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,581 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:35:15,582 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:35:15,585 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}
+2025-09-05 02:36:27,213 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: cannot access local variable 'result_data' where it is not associated with a value
+2025-09-05 02:37:21,713 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,719 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,722 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,770 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,771 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,774 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,775 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,778 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,779 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,782 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,784 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,786 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,788 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,790 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,792 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,794 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,796 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,798 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,800 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,802 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:37:21,804 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:37:21,807 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}
+2025-09-05 02:41:32,786 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:41:32,792 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:41:32,794 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:41:32,897 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,899 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,963 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,966 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,968 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,970 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,973 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,975 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,977 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:41:32,980 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}
+2025-09-05 02:45:33,285 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: cannot access local variable 'result_data' where it is not associated with a value
+2025-09-05 02:45:38,352 - app.clients.ws_client - ERROR - [ws_client.py:73 - _connect_and_listen()] - Failed to connect to Patent WebSocket
+2025-09-05 02:45:38,355 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: cannot access local variable 'result_data' where it is not associated with a value
+2025-09-05 02:45:42,430 - app.clients.ws_client - ERROR - [ws_client.py:73 - _connect_and_listen()] - Failed to connect to Patent WebSocket
+2025-09-05 02:45:42,433 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: cannot access local variable 'result_data' where it is not associated with a value
+2025-09-05 02:45:48,476 - app.clients.ws_client - ERROR - [ws_client.py:73 - _connect_and_listen()] - Failed to connect to Patent WebSocket
+2025-09-05 02:45:48,479 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: cannot access local variable 'result_data' where it is not associated with a value
+2025-09-05 02:45:59,138 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,140 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,143 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,146 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,155 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,158 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,161 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,164 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,167 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:45:59,170 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}
+2025-09-05 02:56:09,043 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,048 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,051 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,106 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,107 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,110 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,112 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,114 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,116 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,118 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,120 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,122 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,124 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,127 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,128 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,130 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,132 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,134 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,136 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,138 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 02:56:09,140 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 02:56:09,143 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}
+2025-09-05 03:00:03,636 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,641 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,644 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,698 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,700 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,702 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,704 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,706 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,708 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,710 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,712 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,714 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,716 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,718 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,720 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,722 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,724 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,726 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,728 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,730 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
+2025-09-05 03:00:03,732 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
+2025-09-05 03:00:03,735 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}

@@ -1,5 +1,5 @@
 from pathlib import Path
-from core.domain.user_file_id_pair import UserFileIDPair
+from core.dto.user_file_id_pair import UserFileIDPair
 from core.manager_domain.user_file import UserFilesManagerDomain
 from core.manager_domain.file import FileManagerDomain
 from core.manager_domain.user import UserManagerDomain

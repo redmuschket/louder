@@ -1,5 +1,7 @@
 from pydantic_core import core_schema
 from pydantic import GetCoreSchemaHandler
+import uuid6
+
 
 class UUID6(uuid6.UUID):
     @classmethod

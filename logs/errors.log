@@ -660,3 +660,16 @@ AttributeError: 'WsMessenger' object has no attribute '_result_future'. Did you 
 2025-09-05 03:00:03,730 - core.ws_messenger - ERROR - [ws_messenger.py:77 - handle_message()] - Error in handle_parser_message: name 'progress' is not defined
 2025-09-05 03:00:03,732 - core.connection_manager - ERROR - [connection_manager.py:65 - _try_send_to_active_connections()] - Нет активных подключений для chat_id: 1830913972
 2025-09-05 03:00:03,735 - core.ws_messenger - ERROR - [ws_messenger.py:64 - handle_message()] - Invalid result data or future already done: {'RU2268840C2': [], 'RU2239027C1': [], 'RU2006671C1': [], 'RU195243U1': [], 'RU2654879C1': [], 'SU335192A1': []}
+2025-10-12 01:24:13,267 - fastapi - ERROR - [utils.py:114 - ensure_multipart_is_installed()] - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
+2025-10-12 22:08:48,606 - asyncio - ERROR - [base_events.py:1821 - default_exception_handler()] - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Users\petrr\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\petrr\AppData\Local\Programs\Python\Python312\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение

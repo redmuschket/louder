@@ -1,46 +1,24 @@
-class UserFiles(Base):
+from uuid6 import uuid7
+from sqlalchemy import Column, String, Boolean, BigInteger, DateTime, func, ForeignKey, UniqueConstraint
+from sqlalchemy.dialects.postgresql import UUID
+from sqlalchemy.orm import relationship
+from core.db.db import Base
+
+class UserFileModel(Base):
     __tablename__ = "user_files"
 
-    user_id = Column(
-        UUID(as_uuid=True),
-        primary_key=True
-    )
-    file_id = Column(
-        UUID(as_uuid=True),
-        primary_key=True
-    )
+    id = Column(BigInteger, primary_key=True, autoincrement=True)
+    user_id = Column(UUID(as_uuid=True), ForeignKey("users.uuid"), nullable=False)
+    file_id = Column(UUID(as_uuid=True), ForeignKey("files.uuid"), nullable=False)
+    created_at = Column(DateTime, server_default=func.now())
+    updated_at = Column(DateTime, server_default=func.now(), onupdate=func.now())
 
-    user = relationship(
-        "User",
-        back_populates="user_files",
-        foreign_keys=[user_id],
-        lazy="select"
+    # Uniqueness of the user_id + file_id pair
+    __table_args__ = (
+        UniqueConstraint('user_id', 'file_id', name='uq_user_file'),
     )
 
-    file = relationship(
-        "File",
-        back_populates="user_files",
-        foreign_keys=[file_id],
-        lazy="select"
-    )
-
-    def __init__(self, user=None, file=None):
-        if user is not None:
-            self.user = user
-        if file is not None:
-            self.file = file
-
-    @property
-    def id(self):
-        return (self.user_id, self.file_id)
-
-    @property
-    def get_user(self):
-        return self.user
-
-    @property
-    def get_file(self):
-        return self.file
+    file = relationship("File", back_populates="user_files")
 
     def __repr__(self):
-        return f"UserFiles(user_id={self.user_id}, file_id={self.file_id})"
+        return f"UserFile(user_id={self.user_id}, file_id={self.file_id})"

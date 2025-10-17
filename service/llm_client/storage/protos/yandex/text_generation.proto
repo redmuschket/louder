@@ -1,0 +1,130 @@
+syntax = "proto3";
+
+package yandex;
+
+import "google/protobuf/struct.proto";
+import "google/protobuf/wrappers.proto";
+
+service TextGenerationService {
+  rpc Completion(CompletionRequest) returns (stream CompletionResponse);
+}
+
+message CompletionRequest {
+  string model_uri = 1;
+
+  CompletionOptions completion_options = 2;
+
+  repeated Message messages = 3;
+
+  repeated Tool tools = 4;
+
+  oneof schema_type {
+    bool json_object = 5;
+    JsonSchema json_schema = 6;
+  }
+}
+
+message CompletionOptions {
+  bool stream = 1;
+  google.protobuf.DoubleValue temperature = 2;
+  google.protobuf.Int64Value max_tokens = 3;
+  ReasoningOptions reasoning_options = 4;
+}
+
+message ReasoningOptions {
+  ReasoningMode mode = 1;
+}
+
+enum ReasoningMode {
+  REASONING_MODE_UNSPECIFIED = 0;
+  ZERO_SHOT = 1;
+  CHAIN_OF_THOUGHT = 2;
+  DEDUCTIVE = 3;
+}
+
+message Message {
+  string role = 1;
+
+  oneof content {
+    string text = 2;
+    ToolCallList tool_call_list = 3;
+    ToolResultList tool_result_list = 4;
+  }
+}
+
+message ToolCallList {
+  repeated ToolCall tool_calls = 1;
+}
+
+message ToolCall {
+  oneof payload {
+    FunctionCall function_call = 1;
+  }
+}
+
+message FunctionCall {
+  string name = 1;
+  google.protobuf.Struct arguments = 2;
+}
+
+message ToolResultList {
+  repeated ToolResult tool_results = 1;
+}
+
+message ToolResult {
+  oneof payload {
+    FunctionResult function_result = 1;
+  }
+}
+
+message FunctionResult {
+  string name = 1;
+
+  oneof result {
+    string content = 2;
+  }
+}
+
+message Tool {
+  oneof type {
+    Function function = 1;
+  }
+}
+
+message Function {
+  string name = 1;
+  string description = 2;
+  google.protobuf.Struct parameters = 3;
+}
+
+message JsonSchema {
+  google.protobuf.Struct schema = 1;
+}
+
+message CompletionResponse {
+  repeated Alternative alternatives = 1;
+  Usage usage = 2;
+  string model_version = 3;
+}
+
+message Alternative {
+  Message message = 1;
+  AlternativeStatus status = 2;
+}
+
+enum AlternativeStatus {
+  ALTERNATIVE_STATUS_UNSPECIFIED = 0;
+  FINISHED = 1;
+  INCOMPLETE = 2;
+}
+
+message Usage {
+  int64 input_text_tokens = 1;
+  int64 completion_tokens = 2;
+  int64 total_tokens = 3;
+  CompletionTokensDetails completion_tokens_details = 4;
+}
+
+message CompletionTokensDetails {
+  int64 reasoning_tokens = 1;
+}

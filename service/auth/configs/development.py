@@ -1,0 +1,27 @@
+import os
+from pathlib import Path
+
+ACCESS_TOKEN_EXPIRE_MINUTES = os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES")
+REFRESH_TOKEN_EXPIRE_MINUTES = os.getenv("ACCESS_TOKEN_EXPIRE_MINUTES")
+JWT_ALGORITHM = os.getenv("JWT_ALGORITHM")
+
+ADMIN_PASSWORD = os.getenv('ADMIN_PASSWORD')
+ADMINS_ID = [1830913972]
+
+#LOGS
+LOG_DIR = os.getenv('LOG_DIR')
+LOG_FILE_SYSTEM = os.getenv('LOG_FILE_SYSTEM')
+LOG_FILE_USER = os.getenv('LOG_FILE_USER')
+LOG_MAX_BYTES = 10 * 1024 * 1024  # 10 MB
+LOG_BACKUP_COUNT = 5
+LOG_ENCODING = 'utf-8'
+# Format
+LOG_SYSTEM_FORMAT = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+LOG_USER_FORMAT = '%(asctime)s - %(message)s'
+# Logging levels
+LOG_FILE_LEVEL = 'INFO'
+LOG_CONSOLE_LEVEL = 'DEBUG'
+LOG_ROOT_LEVEL = 'DEBUG'
+LOG_WERKZEUG_LEVEL = 'INFO'
+
+DEBUG = True

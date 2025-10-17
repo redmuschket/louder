@@ -1,0 +1,32 @@
+{
+    "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": {
+        "used": 40,
+        "limit": 40,
+        "reset_time": 1759776590.932558
+    },
+    "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": {
+        "used": 40,
+        "limit": 40,
+        "reset_time": 1759776849.6319277
+    },
+    "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": {
+        "used": 40,
+        "limit": 40,
+        "reset_time": 1759778495.8201077
+    },
+    "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": {
+        "used": 19,
+        "limit": 40,
+        "reset_time": 0
+    },
+    "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": {
+        "used": 0,
+        "limit": 40,
+        "reset_time": 0
+    },
+    "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": {
+        "used": 0,
+        "limit": 40,
+        "reset_time": 0
+    }
+}

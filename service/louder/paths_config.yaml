@@ -1,0 +1,10 @@
+storage:
+  base_path: "./storage"
+  user_data_dir: "user_data"
+  prompts_dir: "prompts"
+
+system:
+  logs_dir: "./logs"
+
+templates:
+  user_file: "{user_uid}/files/{file_uid}/{filename}"

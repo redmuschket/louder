@@ -1,10 +1,9 @@
 from app.service.auth import AuthService
-from fastapi import Security, Depends, HTTPException, APIRouter, Request
+from fastapi import Depends, HTTPException, APIRouter, Request
 from fastapi.security import HTTPBearer, HTTPAuthorizationCredentials
 from sqlalchemy.ext.asyncio import AsyncSession
 from uuid6 import UUID
 
-from app.dto.user import *
 from app.request import *
 from app.response import *
 from core.logger import Logger

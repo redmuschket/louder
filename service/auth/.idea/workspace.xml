@@ -5,84 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d17740b-3e6e-4075-b454-a01210d07ae3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/dz.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/clients/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/request_models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/request_models/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/response_models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/routes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/routes/get.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/routes/post.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/routes/route_methods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/http/routes/table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/services/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/services/db.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/services/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/services/path_master.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../app/services/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../configs/development.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../configs/testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/UUID6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/config_app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/db/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/db/db.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/db/models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/db/models/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/db/models/user_files.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/depends/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/depends/domain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/depends/service.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/domain/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/domain/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/domain/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/domain_mapper/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/domain_mapper/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/domain_mapper/user_files.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/dto/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/dto/user_file_id_pair.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/enum/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/hashed/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/hashed/hashed_patent_name.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/logger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_config/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_config/manager_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_config/service_client/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_config/service_client/llm_client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_config/service_client/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_domain/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_domain/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_domain/manager_domain.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_domain/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_domain/user_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/manager_prompt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/provider_config/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/provider_config/provider_config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/provider_config/service_client/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/provider_config/service_client/llm_client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/provider_config/service_client/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/token_manager/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/token_manager/service_client/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/token_manager/service_client/file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/token_manager/service_client/llm_client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/token_manager/service_client/user.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../core/token_manager/token_manager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../logs/debug.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../logs/errors.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../logs/info.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dto/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/dto/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dto/registration_pair.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/dto/registration_pair.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dto/token_pair.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/dto/token_pair.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/dto/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/dto/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/service/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/service/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/service/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/service/token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/service/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/service/user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,28 +23,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="34COtARNI0jjuFUMdW7iyc4qmkk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/ART/URFU/ОПД/dz/back/service/auth",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ART/URFU/ОПД/dz/back/service/auth&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ART\URFU\ОПД\dz\back\service\auth\core" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="auth" />
@@ -155,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1760714298337</updated>
-      <workItem from="1760714299432" duration="970000" />
+      <workItem from="1760714299432" duration="1312000" />
     </task>
     <servers />
   </component>

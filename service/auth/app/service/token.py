@@ -1,21 +1,14 @@
 from core.jwt_handler import JwtHandler
-from typing import Tuple, Optional, Dict, Union
-from pathlib import Path
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import exists, select
-from typing import NamedTuple
-from fastapi import Depends
-from fastapi import Security, Depends, HTTPException, APIRouter
-from datetime import timedelta, datetime, timezone
+from fastapi import HTTPException
+from datetime import timedelta, datetime
 from sqlalchemy import update
 
-from app.dto.token_pair import TokenPair
-from app.dto.user import UserCreate
-from core.db.db import get_db
+from core.dto import TokenPair
 from core.db.models.user import User
 from core.db.models.token import Token
 from passlib.context import CryptContext
-from core.enum.token_frame import TokenFrame
 from core.logger import Logger
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")

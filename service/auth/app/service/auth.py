@@ -1,21 +1,14 @@
-from typing import Union, Tuple, Optional, Dict, NamedTuple
 from pathlib import Path
 from passlib.context import CryptContext
-import uuid6
 from fastapi import Depends
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.future import select
-from fastapi import Security, Depends, HTTPException, APIRouter
-from datetime import timedelta, datetime, timezone
-from app.dto.token_pair import TokenPair
+from core.dto import TokenPair
 
-from app.dto.user import UserCreate
-from core.db.db import get_db
+from core.dto import UserCreate
 from app.service.token import TokenService
-from core.db.models.user import User
 from app.response.registration import UserResponse
-from app.dto.registration_pair import RegistrationPair
-from app.dto import user
+from core.dto import RegistrationPair
 from app.service.user import UserService
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")

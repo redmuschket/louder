@@ -1,6 +1,6 @@
 from app.response.registration import UserResponse
 from typing import NamedTuple
-from app.dto.token_pair import TokenPair
+from core.dto import TokenPair
 
 
 class RegistrationPair(NamedTuple):
